@@ -1,0 +1,16 @@
+{
+  "groups": [],
+  "properties": [
+    {
+      "name": "Employee.startJobDate",
+      "type": "java.lang.String",
+      "description": "Description for Employee.startJobDate."
+    },
+    {
+      "name": "Konfiguracja.data",
+      "type": "java.lang.String",
+      "description": "Description for Konfiguracja.data."
+    }
+  ],
+  "hints": []
+}
