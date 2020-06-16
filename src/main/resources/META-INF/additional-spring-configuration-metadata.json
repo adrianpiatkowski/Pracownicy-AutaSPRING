@@ -16,4 +16,5 @@
       "type": "java.lang.String",
       "description": "Description for spring.jpa.hibernate.dialect."
     }
+
   ] }
